@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java
 - 😄 Pronouns: Like
 
-- Making mods : Recipe of BOTW/TOTK, the artist was abandon me :(
+- Making mods : Recipe of BOTW/TOTK, the artist has abandon me :(
 
 <!---
 LikeLike-mods/LikeLike-mods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
