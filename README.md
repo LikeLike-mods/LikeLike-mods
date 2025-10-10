@@ -1,4 +1,5 @@
 - 👋 Hi, I’m LikeLike
+- Speak French 🇫🇷 and English 🇬🇧/🇺🇸
 - 👀 I’m interested in a minecraft mods
 - 🌱 I’m currently learning java
 - 😄 Pronouns: Like
