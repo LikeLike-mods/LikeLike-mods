@@ -1,7 +1,7 @@
 - 👋 Hi, I’m LikeLike
 - Speak French 🇫🇷 and English 🇬🇧/🇺🇸
-- 👀 I’m interested in a minecraft mods
-- 🌱 I’m currently learning java
+- 👀 I’m interested in a minecraft mods, rom hack from botw and totk, and create games !
+- 🌱 I’m currently learning java and gdscript 
 - 😄 Pronouns: Like
 
 - Making mods : Recipe of BOTW/TOTK, the artist has abandon me :(
